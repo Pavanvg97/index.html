@@ -1,2 +1,2 @@
-# index.html
-image slider
+# Responsive Image Slider 
+
